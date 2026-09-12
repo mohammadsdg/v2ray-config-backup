@@ -4,5 +4,5 @@ node_modules/
 
 src/
 package.json
-package-lock.jsons
+package-lock.json
 *.log
